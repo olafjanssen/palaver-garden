@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Palaver Garden: A digital garden on NLG and NLP
+title: "Palaver Garden: A digital garden on NLG and NLP"
 id: home
 permalink: /
 ---
