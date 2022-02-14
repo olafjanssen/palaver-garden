@@ -12,7 +12,7 @@ You are peeking into the tenderly tended digital garden related to Natural Langu
   Check out our <span style="font-weight: bold">[[vision on applying NLG]]</span> to get started on your exploration.
 </p>
 
-Many thanks to the the Jekyll template for generating this digital garden, which you can find [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template) 👏. And also kudos to [Obsidian.md](https://obsidian.md/)🤟 for creating the knowledge base writing app, I was half in the process of writing myself.
+Many thanks to the the Jekyll template for generating this digital garden, which you can find [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template) 👏. And also kudos to [Obsidian.md](https://obsidian.md/)🤟 for already creating the knowledge base writing app I was half in the process of writing myself.
 
 <style>
   .wrapper {
